@@ -68,8 +68,8 @@ body {
 
 .buttom-b{
     display: grid;
+    grid-template-columns: 170px 170px;
     grid-gap: 20px;
-    grid-column:  2;
 }
 
 .aside{
@@ -88,10 +88,12 @@ body {
     padding-left: 20px;
 }
 
-.buttom-b-right{
+.aside-2{
     background-color: #01a787;
-    width: 200px;
-    height: 195px;
+    width: 330px;
+    height: 90px;
+    margin-top: 17px;
+    margin-left: 50px;
 }
 
 
